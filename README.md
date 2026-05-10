@@ -17,6 +17,6 @@ A collection of 2D manufacturing and assembly drawings created during academic c
 ### Rope Pulley (Academic Project)
 - Designed rotating component
 
-### Vacuum Gripper
+### Vacuum Gripper (Academic Project)
 - Vacuum gripping mechanism design
 - CAD assembly and technical documentation
